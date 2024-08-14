@@ -1,0 +1,103 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: gray;
+}
+.marvel{
+    border-radius: 20px;
+    margin: 5px 200px 10px 200px;
+    display: flex;
+    justify-content: flex-start;
+    background-color: white;
+}
+.container0 img{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    width: 450px;
+    align-items: baseline;
+}
+    
+.container{
+    padding: 10px;
+    margin: 5px;
+    flex-direction: column;
+    display: flex;
+    
+    
+}
+
+.eua img{
+    width: 50px;
+}
+.images img{
+    width: 100px;
+}
+h1{
+    margin-top: 10px;
+    font-size: 50px;
+}
+h3{
+    font-size: 24px;
+}
+.pais{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.eua{
+    display: flex;
+    align-items: center;
+}
+.titulo{
+    padding: 15px;
+}
+.biografia{
+    align-items: center;
+    font-size: 18px;
+    padding: 10px;
+}
+
+
+.filmes {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    
+}
+.filmes img{
+    width: 60px;
+}
+
+.premios{
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    
+    
+}
+.premiacao img{
+    width: 50px;
+}
+.premiacao{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.premiacao2 img{
+    width: 50px;
+}
+.premiacao2{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.tudo{
+    justify-content: center;
+    text-align: left;
+}
